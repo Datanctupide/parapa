@@ -1,0 +1,50 @@
+# a = int(input())
+# if a % 2:
+#     print("нечетное")
+# else:
+#     print("четное")
+
+
+# b = int(input())
+# if b > 0:
+#     print("Polozhitelnoe")
+# elif b == 0:
+#     print("Nolь")
+# else:
+#     print("Otrizatelno")
+
+
+# c = int(input())
+# if c >= 18:
+#     print("Dostup razreshen")
+# else:
+#     print("Dostup zapreshen")
+
+
+# d = int(input())
+# e = int(input())
+# if d > e:
+#     print(d)
+# elif d < e:
+#     print(e)
+# else:
+#     print("odinakovo")
+
+
+# f = input()
+# password = "python123"
+# if f == password:
+#     print("Pravilno")
+# else:
+#     print("ploxo")
+
+
+g = int(input())
+h = int(input())
+i = int(input())
+if g > h and g > i:
+    print(g)
+elif h > g and h > i:
+    print(h)
+else:
+    print(i)
